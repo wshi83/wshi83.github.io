@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3584371.3612956,
+author = {Shi, Wenqi and Zhuang, Yuchen and Zhu, Yuanda and Iwinski, Henry and Wattenbarger, Michael and Wang, May Dongmei},
+title = {Retrieval-Augmented Large Language Models for Adolescent Idiopathic Scoliosis Patients in Shared Decision-Making},
+year = {2023},
+isbn = {9798400701269},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3584371.3612956},
+doi = {10.1145/3584371.3612956},
+abstract = {As health-related decision-making evolves, patients increasingly seek help from additional online resources such as "Dr. Google" and ChatGPT. Despite their potential, these tools encounter limitations, including the risk of potentially inaccurate information, a lack of specialized medical knowledge, the risk of generating unrealistic outputs (hallucinations), and significant computational demands. In this study, we develop and validate an innovative shared decisionmaking (SDM) tool, Chat-Orthopedist, for adolescent idiopathic scoliosis (AIS) patients and families to prepare a meaningful discussion with clinicians based on retrieval-augmented large language models. Firstly, we establish an external knowledge base with information on AIS disease and treatment options Secondly, we develop a retrieval-augmented ChatGPT to feed LLMs with AIS domain knowledge, providing accurate and comprehensible responses to patient inquiries. In addition, we perform a cyclical process of human-in-the-loop evaluations for system validation and improvement. ment. Chat-Orthopedist may optimize SDM workflow by enabling better interactive learning experiences, more effective clinical visits, and better-informed treatment decision-making.},
+booktitle = {Proceedings of the 14th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics},
+articleno = {14},
+numpages = {10},
+keywords = {large language models, pediatric healthcare, information retrieval, adolescent idiopathic scoliosis, shared decision-making},
+location = {Houston, TX, USA},
+series = {BCB '23}
+}
