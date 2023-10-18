@@ -1,14 +1,5 @@
 main:
 
-  - title: "COVID-19 Automatic Diagnosis With Radiographic Imaging: Explainable Attention Transfer Deep Neural Networks"
-    authors: <strong>Wenqi Shi</strong>, Li Tong, Yuanda Zhu, May Dongmei Wang
-    conference_short: JBHI
-    conference: IEEE Journal of Biomedical and Health Informatics <strong>(JBHI)</strong>, 2021.
-    pdf: https://ieeexplore.ieee.org/document/9410346
-    bibtex: ./assets/files/jbhi21.txt
-    image: ./assets/img/JBHI-2021.png
-    notes: (IF=7.02)
-
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     conference_short: CVPR
