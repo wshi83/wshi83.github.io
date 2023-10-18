@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3388440.3412455,
+author = {Shi, Wenqi and Tong, Li and Zhuang, Yuchen and Zhu, Yuanda and Wang, May D.},
+title = {EXAM: An Explainable Attention-Based Model for COVID-19 Automatic Diagnosis},
+year = {2020},
+isbn = {9781450379649},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3388440.3412455},
+doi = {10.1145/3388440.3412455},
+abstract = {The ongoing coronavirus disease 2019 (COVID-19) is still rapidly spreading and has caused over 7,000,000 infection cases and 400,000 deaths around the world. To come up with a fast and reliable COVID-19 diagnosis system, people seek help from machine learning area to establish computer-aided diagnosis systems with the aid of the radiological imaging techniques, like X-ray imaging and computed tomography imaging. Although artificial intelligence based architectures have achieved great improvements in performance, most of the models are still seemed as a black box to researchers. In this paper, we propose an Explainable Attention-based Model (EXAM) for COVID-19 automatic diagnosis with convincing visual interpretation. We transform the diagnosis process with radiological images into an image classification problem differentiating COVID-19, normal and community-acquired pneumonia (CAP) cases. Combining channel-wise and spatial-wise attention mechanism, the proposed approach can effectively extract key features and suppress irrelevant information. Experiment results and visualization indicate that EXAM outperforms recent state-of-art models and demonstrate its interpretability.},
+booktitle = {Proceedings of the 11th ACM International Conference on Bioinformatics, Computational Biology and Health Informatics},
+articleno = {36},
+numpages = {6},
+keywords = {explainability, image classification, radiological imaging, automatic diagnosis, attention mechanism, COVID-19},
+location = {Virtual Event, USA},
+series = {BCB '20}
+}

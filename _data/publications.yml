@@ -50,3 +50,11 @@ main:
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9508574
     bibtex: ./assets/files/bhi21.txt
     image: ./assets/img/BHI-2021.png
+
+  - title: "EXAM: An Explainable Attention-based Model for COVID-19 Automatic Diagnosis"
+    authors: <strong>Wenqi Shi</strong>, Li Tong, Yuchen Zhuang, Yuanda Zhu, May D. Wang
+    conference_short: BCB'21
+    conference: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics <strong>(ACM BCB)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3388440.3412455
+    bibtex: ./assets/files/bcb21.txt
+    image: ./assets/img/BCB-2021.png
