@@ -24,7 +24,7 @@ Welcome! I am a final-year PhD student at Georgia Institute of Technology. I am 
 
 ## Awards
 
-- Best Best Paper Award in ACM BCB conference (2023)
+- Best Paper Award in ACM BCB conference (2023)
 - EECS Rising Star Award (2023)
 - NSF Student Travel Award for IEEE BHI (2023)
 - NSF Student Travel Award for ACM BCB conference (2022, 2023)
