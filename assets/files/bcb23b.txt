@@ -1,0 +1,17 @@
+@inproceedings{10.1145/3584371.3612980,
+author = {Shi, Wenqi and Marteau, Benoit Louis and Giuste, Felipe and Wang, May Dongmei},
+title = {Choice Over Effort: Mapping and Diagnosing Augmented Whole Slide Image Datasets with Training Dynamics},
+year = {2023},
+isbn = {9798400701269},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3584371.3612980},
+doi = {10.1145/3584371.3612980},
+abstract = {In pediatric heart transplantation, manual annotations with interob-server and intraobserver variability among cardiovascular pathology experts lead to significant disagreements about the severity of rejection. Artificial intelligence (AI)-enabled computational pathology usually requires large-scale manual annotations of gigapixel whole-slide images (WSIs) for effective model training. To address these challenges, we develop and validate an AI-enabled rare disease detection framework for automating heart transplant rejection detection from whole-slide images of pediatric patients. Specifically, we conduct a novel dataset cartography with data maps and training dynamics to map and diagnose the augmented samples, exploring the model behavior on individual instances during model training. Extensive experiments on internal and external patient cohorts have demonstrated the feasibility of both tile-level and biopsy-level detection. The proposed data-efficient learning framework may support seamless scalability to real-world rare disease detection without the burden of iterative expert annotations.},
+booktitle = {Proceedings of the 14th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics},
+articleno = {28},
+numpages = {6},
+keywords = {heart transplant rejection, medical image processing, whole-slide imaging, dataset cartography},
+location = {Houston, TX, USA},
+series = {BCB '23}
+}
