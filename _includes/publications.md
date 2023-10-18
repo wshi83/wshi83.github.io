@@ -1,6 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
 
-I try to maintain only a small, selected list of my publications here. The full list can be found in my [Google Scholar](https://scholar.google.com/citations?user=4qkrZTAAAAAJ&hl=en) Page.
+<h5 style="margin:0 10px 0;">I try to maintain only a small, selected list of my publications here. The full list can be found in my [Google Scholar](https://scholar.google.com/citations?user=4qkrZTAAAAAJ&hl=en) Page.</h5>
 
 <div class="publications">
 <ol class="bibliography">
