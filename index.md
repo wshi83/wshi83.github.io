@@ -20,7 +20,9 @@ Welcome! I am a final-year PhD student at Georgia Institute of Technology. I am 
 - [08/2023] Humbled to be selected as a **Rising Star in EECS** this year (2023). See you in Atlanta.
 - [07/2023] Humbled to receive **NSF Student Travel Award** for IEEE BHI'23 and ACM BCB'23. See you in Pittsburgh and Houston!
 
+
 {% include_relative _includes/publications.md %}
+
 
 ## Awards
 
