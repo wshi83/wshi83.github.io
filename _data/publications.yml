@@ -34,3 +34,11 @@ main:
     pdf: https://dl.acm.org/doi/pdf/10.1145/3584371.3612980
     bibtex: ./assets/files/bcb23b.txt
     image: ./assets/img/BCB-2023-b.png
+
+  - title: "A FHIR-compliant Application for Multi-Site and Multi-Modality Pediatric Scoliosis Patient Rehabilitation"
+    authors: <strong>Wenqi Shi*</strong>, Felipe O. Giuste*, Yuanda Zhu, Ashley M. Carpenter, Henry J. Iwinski, Coleman Hilton, J. Machael Wattenbarger, May D. Wang (*=Equal Contribution)
+    conference_short: BIBM'21
+    conference: IEEE International Conference on Bioinformatics and Biomedicine <strong>(BIBM)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9669649
+    bibtex: ./assets/files/bibm21.txt
+    image: ./assets/img/BIBM-21.png

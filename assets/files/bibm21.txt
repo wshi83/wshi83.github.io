@@ -1,0 +1,9 @@
+@INPROCEEDINGS{9669649,
+  author={Shi, Wenqi and Giuste, Felipe O. and Zhu, Yuanda and Carpenter, Ashley M. and Iwinski, Henry J. and Hilton, Coleman and Wattenbarger, J. Michael and Wang, May D.},
+  booktitle={2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)}, 
+  title={A FHIR-compliant Application for Multi-Site and Multi-Modality Pediatric Scoliosis Patient Rehabilitation}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1524-1527},
+  doi={10.1109/BIBM52615.2021.9669649}}
