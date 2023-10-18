@@ -1,0 +1,9 @@
+@ARTICLE{9804787,
+  author={Giuste, Felipe and Shi, Wenqi and Zhu, Yuanda and Naren, Tarun and Isgut, Monica and Sha, Ying and Tong, Li and Gupte, Mitali and Wang, May D.},
+  journal={IEEE Reviews in Biomedical Engineering}, 
+  title={Explainable Artificial Intelligence Methods in Combating Pandemics: A Systematic Review}, 
+  year={2023},
+  volume={16},
+  number={},
+  pages={5-21},
+  doi={10.1109/RBME.2022.3185953}}
