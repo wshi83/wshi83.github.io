@@ -41,4 +41,12 @@ main:
     conference: IEEE International Conference on Bioinformatics and Biomedicine <strong>(BIBM)</strong>, 2021.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9669649
     bibtex: ./assets/files/bibm21.txt
-    image: ./assets/img/BIBM-21.png
+    image: ./assets/img/BIBM-2021.png
+
+  - title: "Learning from Heterogeneous Data via Contrastive Learning: An Application in Multi-Source COVID-19 Radiography"
+    authors: <strong>Wenqi Shi</strong>, Mitali S. Gupte, May D. Wang
+    conference_short: BHI'21
+    conference: IEEE EMBS International Conference on Biomedical and Health Informatics <strong>(BHI)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9508574
+    bibtex: ./assets/files/bhi21.txt
+    image: ./assets/img/BHI-2021.png
