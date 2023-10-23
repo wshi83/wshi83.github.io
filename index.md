@@ -16,6 +16,7 @@ Welcome! I am a final-year PhD student at Georgia Institute of Technology. I am 
 ## News
 
 - **[Pinned to Top] I am actively seeking industrial R&D opportunities, as well as Postdoctoral positions, beginning in 2024. I am happy to engage in discussions regarding potential opportunities!**
+- [09/2023] Three groups of graduate and undergraduate students have obtained two first places and one honorable mention in the data hackathon of IEEE BHI'23. Congratulations to the students!
 - [09/2023] One paper got accepted in ACM BCB 2023 and received **Best Paper Award**, discussing retrieval-augmented LLMs for shared decision making in rare diseases.
 - [08/2023] Humbled to be selected as a **Rising Star in EECS** this year (2023). See you in Atlanta.
 - [07/2023] Humbled to receive **NSF Student Travel Award** for IEEE BHI'23 and ACM BCB'23. See you in Pittsburgh and Houston!
@@ -26,6 +27,9 @@ Welcome! I am a final-year PhD student at Georgia Institute of Technology. I am 
 
 ## Awards
 
+- First Place, Data Hackathon of Bioinformatics Drug Target Challenge in IEEE BHI'23 (2023)
+- First Place, Data Hackathon of Bioinformatics scRNA-Seq Challenge in IEEE BHI'23 (2023)
+- Honorable Mention, Data Hackathon of Sensor Informatics Challenge in IEEE BHI'23 (2023)
 - Best Paper Award in ACM BCB conference (2023)
 - EECS Rising Star Award (2023)
 - NSF Student Travel Award for IEEE BHI (2023)
