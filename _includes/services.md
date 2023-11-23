@@ -7,13 +7,15 @@
   <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
 </ul> -->
 - Guest editors for Frontiers Digital Medicine (2022-present)
-- Webmaster for IEEE EMBS Society (2021-present)
-- Webmaster for ACM SIGBio Society (2021-present)
+- Publicity Student Co-Chair for IEEE EMBS Community (2021-present)
+- Publicity Student Co-Chair for ACM SIGBio Community (2021-present)
 - Publicity Co-Chair and Webmaster for 2021 IEEE Healthcare Summit (2021)
-- Teaching Assistant of MED6780/ECE6780/BMED4783/ECE4783 Medical Image Processing (2021-present)
-- Teaching Assistant of MED4813/BMED8813 Biomedical and Health Informatics (2021-present)
-- Teaching Assistant of MED2400 Bio-statistics (2021-present)
-- Project Mentor in Bio-MIBLab (mentored over twenty graduate and undergraduate students, 2021-present)
+
+<h4 style="margin:0 10px 0;">Teaching Experience</h4>
+
+- Head Teaching Assistant of MED6780/ECE6780/BMED4783/ECE4783 Medical Image Processing (2021-present)
+- Head Teaching Assistant of MED4813/BMED8813 Biomedical and Health Informatics (2021-present)
+- Head Teaching Assistant of MED2400 Bio-statistics (2021-present)
 
 <h4 style="margin:0 10px 0;">Reviewers</h4>
 
