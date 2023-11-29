@@ -1,14 +1,5 @@
 main:
 
-  - title: "Explainable Artificial Intelligence Methods in Combating Pandemics: A Systematic Review"
-    authors: Felipe Giuste*, <strong>Wenqi Shi*</strong>, Yuanda Zhu, Tarun Naren, Monica Isgut, Ying Sha, Li Tong, Mitali Gupte, May D. Wang (*=Equal Contribution)
-    conference_short: RBME
-    conference: IEEE Reviews in Biomedical Engineering <strong>(RBME)</strong>, 2021.
-    pdf: https://arxiv.org/pdf/2112.12705.pdf
-    bibtex: ./assets/files/rbme21.txt
-    notes: Annual Featured Article (IF=18.6)
-    image: ./assets/img/RBME-2021.png
-
   - title: "Retrieval-Augmented Large Language Models for Adolescent Idiopathic Scoliosis Patients in Shared Decision-Making"
     authors: <strong>Wenqi Shi</strong>, Yuchen Zhuang, Yuanda Zhu, Henry J.Iwinski, J. Michael Wattenbarger, May D. Wang
     conference_short: BCB'23
@@ -25,6 +16,15 @@ main:
     pdf: https://dl.acm.org/doi/pdf/10.1145/3584371.3612980
     bibtex: ./assets/files/bcb23b.txt
     image: ./assets/img/BCB-2023-b.png
+
+    - title: "Explainable Artificial Intelligence Methods in Combating Pandemics: A Systematic Review"
+    authors: Felipe Giuste*, <strong>Wenqi Shi*</strong>, Yuanda Zhu, Tarun Naren, Monica Isgut, Ying Sha, Li Tong, Mitali Gupte, May D. Wang (*=Equal Contribution)
+    conference_short: RBME
+    conference: IEEE Reviews in Biomedical Engineering <strong>(RBME)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2112.12705.pdf
+    bibtex: ./assets/files/rbme21.txt
+    notes: Annual Featured Article (IF=17.6)
+    image: ./assets/img/RBME-2021.png
 
   - title: "A FHIR-compliant Application for Multi-Site and Multi-Modality Pediatric Scoliosis Patient Rehabilitation"
     authors: <strong>Wenqi Shi*</strong>, Felipe O. Giuste*, Yuanda Zhu, Ashley M. Carpenter, Henry J. Iwinski, Coleman Hilton, J. Machael Wattenbarger, May D. Wang (*=Equal Contribution)
@@ -53,8 +53,8 @@ main:
 
   - title: "EXAM: An Explainable Attention-based Model for COVID-19 Automatic Diagnosis"
     authors: <strong>Wenqi Shi</strong>, Li Tong, Yuchen Zhuang, Yuanda Zhu, May D. Wang
-    conference_short: BCB'21
-    conference: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics <strong>(ACM BCB)</strong>, 2021.
+    conference_short: BCB'20
+    conference: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics <strong>(ACM BCB)</strong>, 2020.
     pdf: https://dl.acm.org/doi/pdf/10.1145/3388440.3412455
     bibtex: ./assets/files/bcb21.txt
     image: ./assets/img/BCB-2021.png
