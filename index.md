@@ -22,7 +22,7 @@ Welcome! I am a fifth-year Ph.D. candidate at Georgia Institute of Technology. I
 - [07/2023] Honored to receive **NSF Student Travel Award** for IEEE BHI'23 and ACM BCB'23. See you in Pittsburgh and Houston!
 
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
 
 ## Awards
