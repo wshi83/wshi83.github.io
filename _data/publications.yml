@@ -17,14 +17,14 @@ main:
     bibtex: ./assets/files/bcb23b.txt
     image: ./assets/img/BCB-2023-b.png
 
-#     - title: "Explainable Artificial Intelligence Methods in Combating Pandemics: A Systematic Review"
-#     authors: Felipe Giuste*, <strong>Wenqi Shi*</strong>, Yuanda Zhu, Tarun Naren, Monica Isgut, Ying Sha, Li Tong, Mitali Gupte, May D. Wang (*=Equal Contribution)
-#     conference_short: RBME
-#     conference: IEEE Reviews in Biomedical Engineering <strong>(RBME)</strong>, 2022.
-#     pdf: https://arxiv.org/pdf/2112.12705.pdf
-#     bibtex: ./assets/files/rbme21.txt
-#     notes: Annual Featured Article (IF=17.6)
-#     image: ./assets/img/RBME-2021.png
+    - title: "Explainable Artificial Intelligence Methods in Combating Pandemics: A Systematic Review"
+    authors: Felipe Giuste*, <strong>Wenqi Shi*</strong>, Yuanda Zhu, Tarun Naren, Monica Isgut, Ying Sha, Li Tong, Mitali Gupte, May D. Wang (*=Equal Contribution)
+    conference_short: RBME
+    conference: IEEE Reviews in Biomedical Engineering <strong>(RBME)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2112.12705.pdf
+    bibtex: ./assets/files/rbme21.txt
+    notes: Annual Featured Article (IF=17.6)
+    image: ./assets/img/RBME-2021.png
 
 #   - title: "A FHIR-compliant Application for Multi-Site and Multi-Modality Pediatric Scoliosis Patient Rehabilitation"
 #     authors: <strong>Wenqi Shi*</strong>, Felipe O. Giuste*, Yuanda Zhu, Ashley M. Carpenter, Henry J. Iwinski, Coleman Hilton, J. Machael Wattenbarger, May D. Wang (*=Equal Contribution)
