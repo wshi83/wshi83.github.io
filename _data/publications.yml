@@ -9,13 +9,13 @@ main:
     notes: Best Paper Award
     image: ./assets/img/BCB-2023-a.png
 
-#   - title: "Choice Over Effort: Mapping and Diagnosing Augmented Whole Slide Image Datasets with Training Dynamics"
-#     authors: <strong>Wenqi Shi*</strong>, Benoit Marteau*, Felipe Giuste, May D. Wang (*=Equal Contribution)
-#     conference_short: BCB'23
-#     conference: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics <strong>(ACM BCB)</strong>, 2023.
-#     pdf: https://dl.acm.org/doi/pdf/10.1145/3584371.3612980
-#     bibtex: ./assets/files/bcb23b.txt
-#     image: ./assets/img/BCB-2023-b.png
+  - title: "Choice Over Effort: Mapping and Diagnosing Augmented Whole Slide Image Datasets with Training Dynamics"
+    authors: <strong>Wenqi Shi*</strong>, Benoit Marteau*, Felipe Giuste, May D. Wang (*=Equal Contribution)
+    conference_short: BCB'23
+    conference: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics <strong>(ACM BCB)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3584371.3612980
+    bibtex: ./assets/files/bcb23b.txt
+    image: ./assets/img/BCB-2023-b.png
 
 #     - title: "Explainable Artificial Intelligence Methods in Combating Pandemics: A Systematic Review"
 #     authors: Felipe Giuste*, <strong>Wenqi Shi*</strong>, Yuanda Zhu, Tarun Naren, Monica Isgut, Ying Sha, Li Tong, Mitali Gupte, May D. Wang (*=Equal Contribution)
