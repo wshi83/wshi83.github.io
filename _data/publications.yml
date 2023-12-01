@@ -17,7 +17,7 @@ main:
     bibtex: ./assets/files/bcb23b.txt
     image: ./assets/img/BCB-2023-b.png
 
-    - title: "Explainable Artificial Intelligence Methods in Combating Pandemics: A Systematic Review"
+  - title: "Explainable Artificial Intelligence Methods in Combating Pandemics: A Systematic Review"
     authors: Felipe Giuste*, <strong>Wenqi Shi*</strong>, Yuanda Zhu, Tarun Naren, Monica Isgut, Ying Sha, Li Tong, Mitali Gupte, May D. Wang (*=Equal Contribution)
     conference_short: RBME
     conference: IEEE Reviews in Biomedical Engineering <strong>(RBME)</strong>, 2022.
@@ -26,35 +26,35 @@ main:
     notes: Annual Featured Article (IF=17.6)
     image: ./assets/img/RBME-2021.png
 
-#   - title: "A FHIR-compliant Application for Multi-Site and Multi-Modality Pediatric Scoliosis Patient Rehabilitation"
-#     authors: <strong>Wenqi Shi*</strong>, Felipe O. Giuste*, Yuanda Zhu, Ashley M. Carpenter, Henry J. Iwinski, Coleman Hilton, J. Machael Wattenbarger, May D. Wang (*=Equal Contribution)
-#     conference_short: BIBM'21
-#     conference: IEEE International Conference on Bioinformatics and Biomedicine <strong>(BIBM)</strong>, 2021.
-#     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9669649
-#     bibtex: ./assets/files/bibm21.txt
-#     image: ./assets/img/BIBM-2021.png
+  - title: "A FHIR-compliant Application for Multi-Site and Multi-Modality Pediatric Scoliosis Patient Rehabilitation"
+    authors: <strong>Wenqi Shi*</strong>, Felipe O. Giuste*, Yuanda Zhu, Ashley M. Carpenter, Henry J. Iwinski, Coleman Hilton, J. Machael Wattenbarger, May D. Wang (*=Equal Contribution)
+    conference_short: BIBM'21
+    conference: IEEE International Conference on Bioinformatics and Biomedicine <strong>(BIBM)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9669649
+    bibtex: ./assets/files/bibm21.txt
+    image: ./assets/img/BIBM-2021.png
 
-#   - title: "Learning from Heterogeneous Data via Contrastive Learning: An Application in Multi-Source COVID-19 Radiography"
-#     authors: <strong>Wenqi Shi</strong>, Mitali S. Gupte, May D. Wang
-#     conference_short: BHI'21
-#     conference: IEEE EMBS International Conference on Biomedical and Health Informatics <strong>(BHI)</strong>, 2021.
-#     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9508574
-#     bibtex: ./assets/files/bhi21.txt
-#     image: ./assets/img/BHI-2021.png
+  - title: "Learning from Heterogeneous Data via Contrastive Learning: An Application in Multi-Source COVID-19 Radiography"
+    authors: <strong>Wenqi Shi</strong>, Mitali S. Gupte, May D. Wang
+    conference_short: BHI'21
+    conference: IEEE EMBS International Conference on Biomedical and Health Informatics <strong>(BHI)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9508574
+    bibtex: ./assets/files/bhi21.txt
+    image: ./assets/img/BHI-2021.png
 
-#   - title: "COVID-19 Automatic Diagnosis With Radiographic Imaging: Explainable Attention Transfer Deep Neural Networks"
-#     authors: <strong>Wenqi Shi</strong>, Li Tong, Yuanda Zhu, May D. Wang
-#     conference_short: JBHI
-#     conference: IEEE Journal of Biomedical and Health Informatics <strong>(JBHI)</strong>, 2021.
-#     pdf: https://ieeexplore.ieee.org/document/9410346
-#     bibtex: ./assets/files/jbhi21.txt
-#     image: ./assets/img/JBHI-2021.png
-#     notes: (IF=7.02)
+  - title: "COVID-19 Automatic Diagnosis With Radiographic Imaging: Explainable Attention Transfer Deep Neural Networks"
+    authors: <strong>Wenqi Shi</strong>, Li Tong, Yuanda Zhu, May D. Wang
+    conference_short: JBHI
+    conference: IEEE Journal of Biomedical and Health Informatics <strong>(JBHI)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/document/9410346
+    bibtex: ./assets/files/jbhi21.txt
+    image: ./assets/img/JBHI-2021.png
+    notes: (IF=7.02)
 
-#   - title: "EXAM: An Explainable Attention-based Model for COVID-19 Automatic Diagnosis"
-#     authors: <strong>Wenqi Shi</strong>, Li Tong, Yuchen Zhuang, Yuanda Zhu, May D. Wang
-#     conference_short: BCB'20
-#     conference: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics <strong>(ACM BCB)</strong>, 2020.
-#     pdf: https://dl.acm.org/doi/pdf/10.1145/3388440.3412455
-#     bibtex: ./assets/files/bcb21.txt
-#     image: ./assets/img/BCB-2021.png
+  - title: "EXAM: An Explainable Attention-based Model for COVID-19 Automatic Diagnosis"
+    authors: <strong>Wenqi Shi</strong>, Li Tong, Yuchen Zhuang, Yuanda Zhu, May D. Wang
+    conference_short: BCB'20
+    conference: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics <strong>(ACM BCB)</strong>, 2020.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3388440.3412455
+    bibtex: ./assets/files/bcb21.txt
+    image: ./assets/img/BCB-2021.png
