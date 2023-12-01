@@ -1,13 +1,13 @@
-# main:
+main:
 
-#   - title: "Retrieval-Augmented Large Language Models for Adolescent Idiopathic Scoliosis Patients in Shared Decision-Making"
-#     authors: <strong>Wenqi Shi</strong>, Yuchen Zhuang, Yuanda Zhu, Henry J.Iwinski, J. Michael Wattenbarger, May D. Wang
-#     conference_short: BCB'23
-#     conference: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics <strong>(ACM BCB)</strong>, 2023.
-#     pdf: https://dl.acm.org/doi/pdf/10.1145/3584371.3612956
-#     bibtex: ./assets/files/bcb23a.txt
-#     notes: Best Paper Award
-#     image: ./assets/img/BCB-2023-a.png
+  - title: "Retrieval-Augmented Large Language Models for Adolescent Idiopathic Scoliosis Patients in Shared Decision-Making"
+    authors: <strong>Wenqi Shi</strong>, Yuchen Zhuang, Yuanda Zhu, Henry J.Iwinski, J. Michael Wattenbarger, May D. Wang
+    conference_short: BCB'23
+    conference: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics <strong>(ACM BCB)</strong>, 2023.
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3584371.3612956
+    bibtex: ./assets/files/bcb23a.txt
+    notes: Best Paper Award
+    image: ./assets/img/BCB-2023-a.png
 
 #   - title: "Choice Over Effort: Mapping and Diagnosing Augmented Whole Slide Image Datasets with Training Dynamics"
 #     authors: <strong>Wenqi Shi*</strong>, Benoit Marteau*, Felipe Giuste, May D. Wang (*=Equal Contribution)
