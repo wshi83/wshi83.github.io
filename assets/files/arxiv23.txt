@@ -1,0 +1,8 @@
+@misc{xu2023knowledgeinfused,
+      title={Knowledge-Infused Prompting: Assessing and Advancing Clinical Text Data Generation with Large Language Models}, 
+      author={Ran Xu and Hejie Cui and Yue Yu and Xuan Kan and Wenqi Shi and Yuchen Zhuang and Wei Jin and Joyce Ho and Carl Yang},
+      year={2023},
+      eprint={2311.00287},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}

@@ -1,5 +1,21 @@
 main:
 
+  - title: "EHRAgent: Code Empowers Large Language Models for Complex Tabular Reasoning on Electronic Health Records"
+    authors: <strong>Wenqi Shi</strong>, Ran Xu, Yuchen Zhuang, Yue Yu, Jieyu Zhang, Hang Wu, Yuanda Zhu, Joyce Ho, Carl Yang, May D. Wang
+    conference_short: Arxiv'24
+    conference: Arxiv, 2024.
+    pdf: https://arxiv.org/abs/2401.07128
+    bibtex: ./assets/files/arxiv24.txt 
+    image: ./assets/img/arxiv-24.png
+
+  - title: "Knowledge-Infused Prompting: Assessing and Advancing Clinical Text Data Generation with Large Language Models"
+    authors: Ran Xu, Hejie Cui, Yue Yu, Xuan Kan, <strong>Wenqi Shi</strong>, Yuchen Zhuang, Wei Jin, Joyce Ho, Carl Yang
+    conference_short: Arxiv'23
+    conference: Arxiv, 2023.
+    pdf: https://arxiv.org/abs/2311.00287
+    bibtex: ./assets/files/arxiv23.txt
+    image: ./assets/img/arxiv-23.png
+  
   - title: "Retrieval-Augmented Large Language Models for Adolescent Idiopathic Scoliosis Patients in Shared Decision-Making"
     authors: <strong>Wenqi Shi</strong>, Yuchen Zhuang, Yuanda Zhu, Henry J.Iwinski, J. Michael Wattenbarger, May D. Wang
     conference_short: BCB'23
