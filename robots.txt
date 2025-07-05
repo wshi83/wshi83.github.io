@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://wshi83.github.io/sitemap.xml
